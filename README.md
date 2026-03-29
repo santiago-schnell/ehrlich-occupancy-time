@@ -229,12 +229,12 @@ ehrlich-occupancy-time/
 If you use this code, please cite the paper:
 
 ```bibtex
-@article{Eilertsen2025EOT,
+@article{Eilertsen2026EOT,
   author  = {Eilertsen, Justin and Schnell, Santiago and Walcher, Sebastian},
   title   = {Ehrlich occupancy time: Beyond $k_{\rm off}$ to a complete
              residence time framework},
   journal = {Journal of Pharmacokinetics and Pharmacodynamics},
-  year    = {2025},
+  year    = {2026},
   doi     = {to be added}
 }
 ```
