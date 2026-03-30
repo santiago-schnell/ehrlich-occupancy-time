@@ -127,7 +127,7 @@ python figure3_EOT_parameter_slices.py
 
 Produces `EOT_parameter_slices.pdf` and `EOT_parameter_slices.png`.
 
-#### Figure 4 (concentration dependence)
+#### Figure S1 (concentration dependence)
 
 ```bash
 python figure_concentration_dependence.py
@@ -135,7 +135,7 @@ python figure_concentration_dependence.py
 
 Runs in under one second.  Produces `FIG_concentration_dependence.pdf`.
 
-#### Figure 5 (induced fit)
+#### Figure S2 (induced fit)
 
 ```bash
 python figure_induced_fit.py
@@ -218,8 +218,8 @@ ehrlich-occupancy-time/
 ├── .gitignore
 ├── figure2_EOT_heatmaps.py             ← Figure 2
 ├── figure3_EOT_parameter_slices.py     ← Figure 3
-├── figure_concentration_dependence.py  ← Figure 4
-└── figure_induced_fit.py               ← Figure 5
+├── figure_concentration_dependence.py  ← Figure S1
+└── figure_induced_fit.py               ← Figure S2
 ```
 
 ---
