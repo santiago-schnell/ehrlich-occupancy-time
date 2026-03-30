@@ -15,8 +15,8 @@ Code to reproduce all numerical figures in:
 |------|----------|
 | `figure2_EOT_heatmaps.py` | Figure 2 (`EOT_heatmaps_high_res`) |
 | `figure3_EOT_parameter_slices.py` | Figure 3 (`EOT_parameter_slices`) |
-| `figure_concentration_dependence.py` | Figure 4 (`FIG_concentration_dependence`) |
-| `figure_induced_fit.py` | Figure 5 (`FIG_induced_fit`) |
+| `figure_concentration_dependence.py` | Figure S1 (`FIG_concentration_dependence`) |
+| `figure_induced_fit.py` | Figure S2 (`FIG_induced_fit`) |
 | `requirements.txt` | Python package dependencies |
 
 Figures 1 (conceptual schematic) is a hand-drawn illustration and is not
