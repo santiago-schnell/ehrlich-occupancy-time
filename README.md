@@ -184,7 +184,7 @@ less than $10^{-6}$ (relative), or until $f(t_\text{end}) < 10^{-8}$
 
 ### Analytical bounds
 
-Figures 4 and 5 use closed-form analytical expressions only — no
+Figures S1 and S2 use closed-form analytical expressions only — no
 numerical integration is involved.
 
 ---
