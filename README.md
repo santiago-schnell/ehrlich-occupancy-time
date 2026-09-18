@@ -4,8 +4,8 @@ Code to reproduce all numerical figures in:
 
 > Eilertsen, J., Schnell, S. & Walcher, S. (2025).  
 > **Ehrlich occupancy time: Beyond *k*_off to a complete residence time framework.**  
-> *Journal of Pharmacokinetics and Pharmacodynamics.*  
-> DOI: [to be added upon publication]
+> *Journal of Pharmacokinetics and Pharmacodynamics.* **53**, art. 46.
+> DOI: https://doi.org/10.1007/s10928-026-10049-4
 
 ---
 
